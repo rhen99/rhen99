@@ -8,7 +8,7 @@ Hello there. I'm Ey Rhen. I'm a dude that likes to do a lot of different things.
 
 ### Goal Of This Profile
 
-## I made this profile so that I will have something to provide if an employer, for example ask for a portfolio. I made various portfolios over the years but none of them really work so I hope this one would.
+I made this profile so that I will have something to provide if an employer, for example ask for a portfolio. I made various portfolios over the years but none of them really work so I hope this one would.
 
 ### Languages and Tools
 
@@ -23,4 +23,4 @@ Hello there. I'm Ey Rhen. I'm a dude that likes to do a lot of different things.
 <img align="left" width="30px" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
 <img align="left" width="30px" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
 <img align="left" width="30px" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-<img align="left" width="30px" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongo-original-wordmark.svg">
+<img align="left" width="30px" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
