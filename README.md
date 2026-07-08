@@ -1,10 +1,14 @@
 ## Ey Rhen
 
-**`Self-Taught Everything`**
+**`Self-Taught Developer | WordPress • Full-Stack`**
 
-### A Little About Me
+### About Me
 
-Hello there. I'm Ey Rhen. I'm a dude that likes to do a lot of different things. I'm a programmer, a writer, and everything in between. I've started learning to code 7 years ago as a means to have a career as a disabled person. I gotta say that I've gotten pretty good at it.
+Hello! I'm Ey Rhen, a self-taught developer focused on building practical and user-focused web solutions. I started learning to code with the goal of creating a sustainable remote career, and I’ve since developed strong skills across both frontend and backend development.
+
+I specialize in WordPress development, including custom themes and plugins, and I enjoy creating tools and applications that solve real-world problems. I prioritize clean, maintainable code and continuously work on improving my skills and workflow.
+
+---
 
 ### Languages and Tools
 
@@ -20,3 +24,5 @@ Hello there. I'm Ey Rhen. I'm a dude that likes to do a lot of different things.
 <img align="left" width="30px" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg">
 <img align="left" width="30px" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 <img align="left" width="30px" style="padding-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+
+<br clear="left"/>
